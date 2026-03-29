@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://aykhan-hasanzada.vercel.app/sitemap.xml
