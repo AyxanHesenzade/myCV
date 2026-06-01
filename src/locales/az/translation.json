@@ -1,0 +1,107 @@
+{
+  "nav": {
+    "about": "Haqqımda",
+    "skills": "Bacarıqlar",
+    "experience": "Təcrübə",
+    "contact": "Əlaqə",
+    "hireMe": "İşə götür"
+  },
+  "hero": {
+    "hello": "SALAM, MƏN",
+    "description": "yüksək performanslı",
+    "webMobile": "Veb və Mobil",
+    "experiences": "həllər yaradıram.",
+    "downloadCV": "CV-ni yüklə",
+    "scroll": "Aşağı dayan"
+  },
+  "about": {
+    "tag": "Haqqımda",
+    "title": "Rəqəmsal",
+    "titleAccent": "Mükəmməllik",
+    "whatIDo": "Nə",
+    "whatIDoAccent": "Edirəm",
+    "education": "Təhsil",
+    "languages": "Dillər",
+    "profile": "Yüksək performanslı veb və cross-platform mobil tətbiqlər qurmaqda təcrübəli Frontend və Mobil Developeram. React.js, Vue.js, React Native və Flutter üzrə ixtisaslaşmışam; təmiz arxitektura, RESTful API inteqrasiyası və rahat istifadəçi təcrübəsinə fokuslanıram. ERP-INTEL LLC-də stajyer kimi başlayıb uğurlu modul çatdırılması sayəsində sürətlə tam ştat mühəndis vəzifəsinə keçdim. Responsiv dizayn, state management və mürəkkəb tələbləri zərif, dəstəklənə bilən koda çevirməyə həvəsliyəm."
+  },
+  "skills": {
+    "title": "Əsas",
+    "titleAccent": "Bacarıqlar"
+  },
+  "experience": {
+    "title": "Peşəkar",
+    "titleAccent": "Yolum",
+    "jobs": [
+      {
+        "description": "Müəssisə səviyyəli məhsullar üçün cross-platform müştəri tərəfi həllərinin qurulması və saxlanılması.",
+        "highlights": [
+          "React.js ilə yüksək performanslı Frontend idarəetmə panelləri və React Native, Flutter ilə mobil tətbiqlər hazırlanır.",
+          "Müştəri tərəfi tətbiq performansı, responsivliyi və state management axını optimallaşdırılır.",
+          "Backend mikroservislər və müasir istifadəçi interfeysləri arasında fasiləsiz RESTful API inteqrasiyası təmin edilir.",
+          "Stajyer kimi qoşulub uğurlu modul çatdırılması və sürətli uyğunlaşma sayəsinde tam ştat mühəndis vəzifəsinə keçdim."
+        ]
+      },
+      {
+        "description": "React.js və müasir frontend texnologiyalarından istifadə edərək beynəlxalq müştərilər üçün miqyaslana bilən, responsiv veb tətbiqləri hazırlandı.",
+        "highlights": [
+          "Xüsusi idarəetmə panellərindən interaktiv istifadəçi interfeyslərinə qədər müxtəlif layihələr üçün təmiz, modulyar və dəstəklənə bilən kod çatdırıldı.",
+          "Effektiv məlumat axını və dinamik istifadəçi təcrübəsi üçün mürəkkəb RESTful API-lər hamar şəkildə inteqrasiya edildi.",
+          "Frontend layihə həyat dövrləri müstəqil idarə edildi — tələblərin toplanmasından prototipləşdirməyə, son yerləşdirmə və sazlamaya qədər."
+        ]
+      }
+    ]
+  },
+  "education": [
+    { "degree": "Biotexnologiya üzrə Elm Magistri", "school": "Bakı Dövlət Universiteti" },
+    { "degree": "Kimya və Biologiya Təhsili üzrə Elm Bakalavru", "school": "Azərbaycan Dövlət Pedaqoji Universiteti" }
+  ],
+  "languages": [
+    { "name": "Azərbaycan dili", "level": "Ana dili" },
+    { "name": "İngilis dili", "level": "B1 / B2" },
+    { "name": "Türk dili", "level": "B2" }
+  ],
+  "services": [
+    {
+      "title": "Mobil Tətbiq İnkişafı",
+      "desc": "React Native və Flutter istifadə edərək iOS və Android üçün yüksək performanslı cross-platform tətbiqlər yaradılır."
+    },
+    {
+      "title": "Veb Tətbiq İnkişafı",
+      "desc": "React.js və Vue.js ilə qabaqcıl state management istifadə edərək premium, responsiv veb tətbiqləri qurulur."
+    },
+    {
+      "title": "UI/UX-dan Koda",
+      "desc": "Mürəkkəb Figma dizaynları təmiz, dəstəklənə bilən və interaktiv piksel-mükəmməl koda çevrilir."
+    }
+  ],
+  "contact": {
+    "title": "Əlaqəyə",
+    "titleAccent": "Keç",
+    "subtitle": "Layihəni müzakirə edək",
+    "description": "Yeni layihələri, yaradıcı ideyaları və ya sizin viziyanızın bir parçası olmaq üçün fürsətləri müzakirə etməyə həmişə açıqam.",
+    "emailLabel": "E-poçt",
+    "phoneLabel": "Telefon",
+    "locationLabel": "Ünvan",
+    "namePlaceholder": "Adınız Soyadınız",
+    "emailPlaceholder": "siz@example.com",
+    "nameLabel": "Adınız",
+    "emailFieldLabel": "E-poçtunuz",
+    "subjectLabel": "Mövzu",
+    "selectTopic": "Mövzu seçin...",
+    "messageLabel": "Mesaj",
+    "messagePlaceholder": "Sizə necə kömək edə bilərəm?",
+    "send": "Mesaj göndər",
+    "sending": "Göndərilir...",
+    "success": "Mesaj uğurla göndərildi!",
+    "error": "Xəta baş verdi. Yenidən cəhd edin."
+  },
+  "footer": {
+    "rights": "Bütün hüquqlar qorunur."
+  },
+  "stats": {
+    "projects": "Tamamlanan Layihələr",
+    "hours": "Kodlaşdırma Saatları",
+    "clients": "Beynəlxalq Müştərilər",
+    "technologies": "Texnologiyalar"
+  }
+}
